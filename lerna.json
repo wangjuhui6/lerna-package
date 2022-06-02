@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "version": "independent",
-  "npmClient": "yarn",
+  "npmClient": "npm",
   "command": {
     "publish": {
       "ignoreChanges": [
@@ -11,7 +11,7 @@
         "*.md"
       ],
       "message": "chore(release): publish",
-      "registry": "http://npm.wangjuhui.top/registry/"
+      "registry": "http://npm.wangjuhui.top/registry/",
     },
     "bootstrap": {
       "npmClientArgs": [
