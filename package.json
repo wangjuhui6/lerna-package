@@ -1,5 +1,5 @@
 {
-  "name": "@wjh",
+  "name": "root",
   "private": true,
   "devDependencies": {
     "lerna": "^5.0.0"
