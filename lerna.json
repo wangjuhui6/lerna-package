@@ -2,5 +2,16 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.2-alpha.0"
+  "version": "independent",
+  "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "ignoreChanges": ["ignored-file", "*.md"],
+      "message": "chore(release): publish",
+      "registry": "http://npm.wangjuhui.top/registry/"
+    },
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"]
+    }
+  }
 }
