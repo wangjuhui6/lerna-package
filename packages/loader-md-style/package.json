@@ -1,6 +1,7 @@
 {
   "name": "@wjh/loader-md-style",
   "version": "0.0.5",
+  "private": false,
   "description": "> TODO: description",
   "author": "wangjuhui <13934720500@163.com>",
   "homepage": "https://github.com/wangjuhui6/lerna-package#readme",
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/wangjuhui6/lerna-package/issues"
   },
-  "gitHead": "33bdbc528f26204af99cb46e2c2b8b4f9e0c5758"
+  "gitHead": "f09339459718355157c3608d7c5a353ef95406fe"
 }
