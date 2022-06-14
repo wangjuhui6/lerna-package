@@ -4,7 +4,6 @@
   ],
   "version": "independent",
   "npmClient": "npm",
-  "verifyAccess": false,
   "command": {
     "publish": {
       "ignoreChanges": [
