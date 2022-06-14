@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://10.0.10.59:7001/"
+    "registry": "http://npm.wangjuhui.top/registry/"
   },
   "repository": {
     "type": "git",
