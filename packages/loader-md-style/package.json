@@ -11,6 +11,10 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "maintainers": [
+    "admin",
+    "wjh"
+  ],
   "files": [
     "lib"
   ],
@@ -27,5 +31,5 @@
   "bugs": {
     "url": "https://github.com/wangjuhui6/lerna-package/issues"
   },
-  "gitHead": "80fc22931676b645f29b3a2bae61c2e2b3ec14e7"
+  "gitHead": "77f991468a7f426fb35dff5c6d3c71a474bbca61"
 }
